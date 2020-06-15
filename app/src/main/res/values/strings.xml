@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">School App</string>
+    <string name="Log_In">Log In</string>
+    <string name="register">Register</string>
+    <string name="text">
+        <a href="https://faraitfusion.com">Develop By FaraITFusion.com </a>
+</string>
+    <string name="registration"> </string>
+    <string name="pendin">দুঃখিত। আপনার আবেদনটি এখনো প্রক্রিয়াধিন আছে। অতি শিগ্রই স্কুল কর্তৃপক্ষ আপনার আবেদনটি ভেরিফাই করবে। ভেরিফিকেশন সম্পন্ন হলে আপনি লগইন করতে সক্ষম হবেন। বিশেষ প্রয়োজনে কল করুনঃ চারুলতা ইন্টারন্যাশনাল স্কুল - +৮৮০১৮১৯২৭৯০২৫</string>
+    <string-array name="Class_Name">
+        <item>Pre-play</item>
+        <item>Play</item>
+        <item>Nursery</item>
+        <item>KG</item>
+    </string-array>
+</resources>
